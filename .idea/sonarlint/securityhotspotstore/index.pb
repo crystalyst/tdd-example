@@ -7,6 +7,7 @@ f
 6src/main/java/io/hhplus/tdd/point/PointController.java,e/7/e7dc8c6eb55db65808b1ee79548950749d0a5b12
 :
 
+<<<<<<< HEAD
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 P
  .github/pull_request_template.md,9/9/99d2d4406193bf0dc3e7b84a6c9b9109997a4864
@@ -30,3 +31,6 @@ f
 6src/main/java/io/hhplus/tdd/point/TransactionType.java,7/2/7211931efa440e2f60cf02fb837802d1ed39e03d
 `
 0src/main/java/io/hhplus/tdd/point/UserPoint.java,3/5/35f23013a0859d860f7a7e124d76c665280576d6
+=======
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+>>>>>>> parent of 4fc18c1 (added PR template)
