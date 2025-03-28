@@ -13,6 +13,7 @@ f
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 P
+<<<<<<< HEAD
  .github/pull_request_template.md,9/9/99d2d4406193bf0dc3e7b84a6c9b9109997a4864
 c
 3src/main/java/io/hhplus/tdd/point/PointHistory.java,6/8/68c3e7bbe055073390480523294b5bfdb637540b
@@ -35,3 +36,6 @@ f
 `
 0src/main/java/io/hhplus/tdd/point/UserPoint.java,3/5/35f23013a0859d860f7a7e124d76c665280576d6
 >>>>>>> parent of 9176ac7 (revert)
+=======
+ .github/pull_request_template.md,9/9/99d2d4406193bf0dc3e7b84a6c9b9109997a4864
+>>>>>>> parent of 5054653 (1주차 기본과제)
